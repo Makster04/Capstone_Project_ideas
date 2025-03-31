@@ -1,4 +1,6 @@
 # 🗳️ NLP-Powered Insight Engine for Swing State Voters  
+**(NLP Voter Sentiment)**
+
 ### Understand What the Silent Majority Really Cares About
 
 ---
