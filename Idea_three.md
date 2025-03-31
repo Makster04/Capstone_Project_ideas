@@ -1,5 +1,7 @@
-
 # 🗳️ NLP-Powered Insight Engine for Swing State Voters  
+
+---
+
 ### Understand What the Silent Majority Really Cares About
 
 ## 🧠 Overview  
