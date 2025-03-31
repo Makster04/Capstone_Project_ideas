@@ -64,7 +64,7 @@ This hybrid approach allows for **interpretable predictive modeling** while inco
 - [FRED (Federal Reserve Economic Data)](https://fred.stlouisfed.org/) – GDP, CPI, unemployment, interest rates  
 - [OECD Economic Indicators](https://data.oecd.org/) – confidence indices, production stats  
 - [NBER](https://www.nber.org/research/data/us-business-cycle-expansions-and-contractions) – recession labels  
-- [World Bank Economic Data](https://data.worldbank.org/) – global macroeconomic comparisons
+- [World Bank Economic Data](https://data.worldbank.org/) – global macroeconomic comparisons]
 
 ---
 
