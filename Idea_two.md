@@ -1,4 +1,4 @@
-# 🧠 Recession Prediction Model Using Economic Indicators (Supervised ML)
+# 🧠 Recession Prediction Model Using Economic Indicators (Advanced Supervised Time Series ML Model)
 
 ## Overview
 
