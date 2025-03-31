@@ -1,6 +1,3 @@
-Absolutely! Here's a README for your Capstone Project modeled after the Recession Prediction example — tailored to your NLP swing state idea:
-
----
 
 # 🗳️ NLP-Powered Insight Engine for Swing State Voters  
 ### Understand What the Silent Majority Really Cares About
