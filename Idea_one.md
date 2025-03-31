@@ -1,8 +1,4 @@
-Absolutely! Here’s a polished, professional, and marketable write-up for your **City Recommendation System Based on Income and Preferences**, styled similarly to the Recession Prediction Model format:
-
----
-
-### 🏙️ City Recommendation System Based on Income and Preferences (Unsupervised + Recommender Systems)
+# 🏙️ City Recommendation System Based on Income and Preferences (Unsupervised + Recommender Systems)
 
 ### Overview  
 As remote work, climate migration, and lifestyle flexibility become the norm, there's growing demand for intelligent, data-driven relocation tools. This project builds a **City Recommendation System** that helps users—especially **remote workers, families, and retirees**—discover ideal cities based on **income, lifestyle, cost-of-living tolerance, and preferences**.
