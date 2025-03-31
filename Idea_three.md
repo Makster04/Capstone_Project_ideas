@@ -1,8 +1,7 @@
 # 🗳️ NLP-Powered Insight Engine for Swing State Voters  
+### Understand What the Silent Majority Really Cares About
 
 ---
-
-### Understand What the Silent Majority Really Cares About
 
 ## 🧠 Overview  
 This project leverages Natural Language Processing (NLP) to surface the core concerns and sentiments of the “silent majority” in U.S. swing states by analyzing what people actually say and share online. It helps political campaigns, super PACs, think tanks, and policymakers tune into authentic voter voices — beyond polls or cable news — to craft smarter, more aligned messaging and policy.
