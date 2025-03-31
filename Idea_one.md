@@ -1,4 +1,6 @@
-## 🌆 City Recommendation System Based on Income and Preferences
+# 🌆 City Recommendation System Based on Income and Preferences
+
+---
 
 ### Overview
 
