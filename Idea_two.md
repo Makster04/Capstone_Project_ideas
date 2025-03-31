@@ -2,6 +2,8 @@
 
 ## Overview
 
+"Given the last 4 quarter, what is the next one gonna look like based on {EConomic Data}"
+
 A Recession Prediction Model using publicly available economic data is highly relevant and marketable in today’s rapidly shifting economic landscape. It leverages supervised machine learning to forecast recessions using lagged macroeconomic indicators, helping businesses, investors, and policymakers stay one step ahead.
 
 ---
